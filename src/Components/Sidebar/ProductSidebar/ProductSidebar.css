@@ -1,0 +1,76 @@
+.cat{
+
+    border: 1px solid #e7e7e7;
+    border-top: none;
+    
+}
+
+.cat .cat-title{
+
+    width: 100%;
+    display: inline-block;
+    background-color: black;
+    margin: 0px 5px;
+    padding: 10px 0px;
+}
+
+.cat .cat-title h6{
+
+    color: white;
+    text-transform: uppercase;
+    margin: 0px 10px;
+}
+
+.cat .cat-title a{
+
+    
+    margin-left: 10px;
+    color: white;
+}
+
+
+.cat .cat-list hr{
+
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.cat .cat-list ul{
+
+    margin-top: 10px;
+    width: 100%;
+}
+
+
+.cat .cat-list ul li{
+    padding: 13px 0px;
+    width: 100%;
+}
+
+
+.cat .cat-list ul li a{
+
+    padding: 0px 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.cat-list .disc-sale{
+
+    
+    font-weight: 500;
+    background-color: #f4f4f4;
+    margin-top: 20px;
+    margin-left: 15px;
+    
+}
+
+.cat-list h4{
+
+    color: black;
+    padding: 10px 0px;
+    font-size: 15px;
+    margin-left: 35px;
+    
+}

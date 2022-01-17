@@ -1,0 +1,201 @@
+.top-bar{
+
+    background-color: rgb(243, 241, 241);
+    padding: 10px 0px;
+}
+
+.top-bar .intro ul {
+
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+.top-bar .intro ul li {
+
+    display: inline-block;
+    font-size: 14px;
+    margin: 0px 5px;
+    color: black;
+}
+
+.top-bar .intro ul li a{
+
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+    
+}
+
+.highlight{
+    font-weight: lighter;
+    color: black;
+}
+
+
+.top-bar .social ul {
+
+    margin-bottom: 0px;
+    text-align: right;
+}
+
+.top-bar .social ul li {
+
+    display: inline-block;
+    font-size: 14px;
+    margin: 0px 5px;
+    
+}
+
+.top-bar .social ul li a{
+
+    padding: 0px 5px;
+    display: block;
+    color: black;
+}
+
+
+
+
+
+.header{
+
+    background-color: #fff;
+    padding: 10px 0px;
+   
+    
+}
+
+.logo img {
+
+    width: 100px;
+    margin-bottom: 0px;
+    
+    
+}
+
+.header .header-contact ul {
+
+    margin-bottom: 0px;
+    text-align: right;
+    padding-top: 10px;
+    
+}
+
+.header-contact ul li{
+
+    display: inline-block;
+    margin: 0px 5px;
+    text-align: left;
+    line-height: 15px;
+    
+}
+
+.header-contact ul li p{
+
+    font-weight: bold;
+    font-size: 16px;
+    color: black;
+    
+    
+
+}
+
+.header-contact label{
+
+    display: inline-block;
+    font-size: 13px;
+    
+}
+
+
+.header-menu{
+
+    background-color: #08c;
+    padding: 20px 0px;
+}
+
+.menu ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu ul li{
+    display: inline-block;
+}
+
+.menu ul li a {
+
+    color: white;
+    text-decoration: none;
+    margin: 0px 10px;
+    font-size: 20px;
+}
+
+.menu ul li a:hover{
+
+    border-radius: 8%;
+    padding: 5px 8px;
+    border: 1px solid rgb(44, 22, 167);
+    font-size: 20px;
+    margin: 0px;
+}
+
+.menu ul li a.active{
+
+    border: 1px solid rgb(44, 22, 167);
+    border-radius: 8%;
+    padding: 5px 8px;
+    font-size: 20px;
+
+}
+
+
+.right{
+
+    margin-bottom: 0px;
+
+}
+
+
+.right ul{
+
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    float: right;
+   
+    
+}
+
+.right ul li a{
+
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    
+    
+}
+
+.right ul li a:hover{
+
+    border: 1px solid rgb(44, 22, 167);
+    border-radius: 8%;
+    font-size: 20px;
+    padding: 5px 8px;
+    margin: 0px;
+    
+}
+
+.right ul li a:active{
+
+    border: 1px solid rgb(44, 22, 167);
+    border-radius: 8%;
+    font-size: 20px;
+    
+    
+}
+
+
+
+
+

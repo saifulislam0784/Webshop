@@ -1,0 +1,107 @@
+.page-top{
+
+    background-color: whitesmoke;
+    padding: 30px 0px;
+
+}
+
+.page-top ul{
+
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.page-top ul li{
+
+    display: inline-block;
+    margin: 0px 5px;
+}
+
+.page-top h2{
+
+    text-align: center;
+    margin-left: 35px;
+}
+
+.team{
+
+    padding: 30px 0px;
+}
+
+.team .meet-team h2{
+
+    font-weight: normal;
+}
+
+.team .meet-team span{
+
+    font-weight: bold;
+}
+
+.team .t-member{
+
+    padding: 20px 0px;
+}
+
+.team .t-member img{
+
+    width: 100%;
+
+}
+.team .t-member h5{
+    width: 40%;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 20px 5px;
+    text-align: center;
+    opacity: 60%;
+    margin-top: -90px;
+    margin-left: 10px;
+    
+}
+
+
+.team .t-member h6{
+
+    background-color: #08c;
+    color: white;
+    padding: 5px 5px;
+    margin-top: -22px;
+    margin-left: 37px;
+    display: block;
+    width: 20%;
+    z-index: 3;
+    position: relative;
+    text-align: center;
+}
+
+.team .t-member p {
+    color: black;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.team .social ul{
+
+    text-align: left;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+.team .social ul li{
+
+    display: inline-block;
+    margin-right: 5px;
+    background-color: #08c;
+    border-radius: 5px;
+}
+
+
+.team .social ul li a{
+
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+    

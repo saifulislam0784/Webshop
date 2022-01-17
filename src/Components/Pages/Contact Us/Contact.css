@@ -1,0 +1,49 @@
+.contact-top{
+    background-image: url('../../../images/bg3.jpg');
+    padding: 100px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact{
+
+    padding: 50px 0px;
+}
+
+.contact .frm{
+
+    padding-top: 50px;
+}
+
+.contact .frm .btn{
+
+    width: 30%;
+    margin-left: 30%;
+    
+}
+
+.contact .add ul li{
+
+   color: blue;
+   padding: 10px 0px;
+}
+
+.contact .add ul li a{
+
+    color: black;
+    text-decoration: none;
+    padding: 0px 10px;
+ }
+
+ .contact .hours ul li{
+
+    color: blue;
+    padding: 10px 0px;
+ }
+ 
+ .contact .hours ul li a{
+ 
+     color: black;
+     text-decoration: none;
+     padding: 0px 10px;
+  }

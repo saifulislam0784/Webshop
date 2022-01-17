@@ -1,0 +1,183 @@
+.page-header{
+
+    padding: 40px;
+    background-color:#d93c81 !important;
+    width: 1297px;
+    margin-left: 111px;
+}
+
+.flash-sale{
+
+    padding-bottom: 40px;
+}
+
+.page-header .search-widget input{
+
+        padding: 10px;
+        width: 70%;
+        border-radius: 50px;
+        border: none;
+       
+}
+
+.page-header .search-widget a{
+
+    color: black;
+    margin-left: -45px;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-bottom: 0px;
+    
+}
+
+
+.page-header .drop{
+
+    margin-top: -41px;
+    margin-left: 220px;
+}
+
+.page-header .icon ul li a{
+
+    margin-top: 10px;
+}
+
+
+
+.page-header .cont ul li{
+
+    display: inline-block;
+    margin: 0px 10px;
+    line-height: 0px;
+}
+
+.page-header .cont ul li a{
+
+    color: white;
+    font-size: 30px;
+
+}
+
+.page-header .cont ul li h6{
+
+    font-size: 12px;
+}
+
+.page-header .cont ul li p{
+
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+
+
+.page-header .header-right ul{
+
+    text-align: right;
+}
+
+.page-header .header-right ul li a{
+
+    color: white;
+    font-size: 30px;
+    margin: 0px 20px;
+}
+
+.flash-sale-p img{
+
+    width: 100%;
+    height: 57vh;
+    object-fit: cover;
+}
+
+.f-product{
+    padding: 50px 0px;
+    background-color: #e9e9e9 !important;
+}
+
+.f-product .shadow{
+    border: none;
+    background-color: #d93c81;
+}
+
+.f-product .shadow:hover{
+    transform: scale(1.05);
+    transition: ease-out;
+    transition-duration: .5s;
+}
+
+.f-product h2{
+
+    font-weight: bold;
+    padding: 40px 0px 0px 0px;
+    margin-left: 0px;
+    color: #0d6efd;
+}
+
+
+.product-item {
+
+    margin-bottom: 10px;
+    
+}
+
+.product-item hr{
+    margin-top: 5px;
+}
+
+.product-item Button{
+
+    background-color: rgb(77, 74, 74);
+    border: none;
+    font-weight: bold;
+    
+}
+
+.product-item Button:hover{
+
+    background-color: transparent;
+    border: 1px solid palevioletred;
+    
+}
+
+
+.product-item a{
+
+    text-decoration: none;
+}
+
+.product-item h4{
+    color: goldenrod;
+    font-weight: 700;
+    
+   
+}
+
+.product-item h6{
+
+    color: white;
+   
+}
+
+.product-item .regular{
+
+    color: white;
+    font-size: 12px;
+    text-decoration: line-through;
+}
+
+.product-item .sale{
+
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 10px;
+    padding-right: 100px;
+    
+}
+
+.product-item .stock{
+
+    color: green;
+}

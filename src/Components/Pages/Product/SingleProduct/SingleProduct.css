@@ -1,0 +1,239 @@
+.page-header{
+
+    padding: 40px;
+    background-color: blueviolet;
+    width: 1297px;
+    margin-left: 111px;
+}
+
+.flash-sale{
+
+    padding-bottom: 40px;
+}
+
+.page-header .search-widget input{
+
+        padding: 10px;
+        width: 70%;
+        border-radius: 50px;
+        border: none;
+       
+}
+
+.page-header .search-widget a{
+
+    color: black;
+    margin-left: -45px;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-bottom: 0px;
+    
+}
+
+
+.page-header .drop{
+
+    margin-top: -41px;
+    margin-left: 220px;
+}
+
+.page-header .icon ul li a{
+
+    margin-top: 10px;
+}
+
+
+
+.page-header .cont ul li{
+
+    display: inline-block;
+    margin: 0px 10px;
+    line-height: 0px;
+}
+
+.page-header .cont ul li a{
+
+    color: white;
+    font-size: 30px;
+
+}
+
+.page-header .cont ul li h6{
+
+    font-size: 12px;
+}
+
+.page-header .cont ul li p{
+
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+
+
+.page-header .header-right ul{
+
+    text-align: right;
+}
+
+.page-header .header-right ul li a{
+
+    color: white;
+    font-size: 30px;
+    margin: 0px 20px;
+}
+
+.s-product img{
+
+    width: 100%;
+    padding-top: -10px;
+}
+
+.s-product-info{
+
+    margin-left: 0px;
+    padding: 20px 0px;
+}
+
+.s-product-info .p-name{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+}
+
+.s-product-info .pricing .regular{
+    color: black;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+
+.s-product-info .pricing .sale{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 10px;
+    color: rgb(99, 3, 70);
+}
+
+.s-product-info .desc p{
+    color: black;
+    font-size: 20px;
+    line-height: 24px;
+   
+}
+
+.s-product-info .stock{
+
+    color: green;
+}
+
+.s-product-info .out{
+
+    color: red;
+}
+
+.s-product-info Button{
+
+    background-color: rgb(77, 74, 74);
+    border: none;
+    font-weight: bold;
+    margin-top: 30px;
+    
+}
+
+.s-product-info Button:hover{
+    color: black;
+    background-color: transparent;
+    border: 1px solid palevioletred;
+    
+}
+
+.s-product-info .cat{
+
+    margin: 4px 0px;
+    border: none;
+}
+
+.s-product-info .cat span{
+
+    font-weight: bold;
+
+}
+
+.s-product-info .tag span{
+
+    font-weight: bold;
+}
+
+
+.related-p{
+    background-color: #e9e9e9;
+    padding: 50px;
+}
+
+.related-p img{
+   
+    width: 100%;
+}
+
+.related-p h2{
+
+    color: blue;
+    margin-bottom: 20px;
+
+}
+
+.related-p .related-item h4{
+
+    color: goldenrod;
+
+}
+
+.related-p .related-item a{
+
+    text-decoration: none;
+
+}
+
+.related-p .related-item .pricing{
+
+    margin-bottom: 10px;
+
+}
+
+.related-p .related-item .pricing .regular{
+
+        color: black;
+        font-size: 18px;
+        text-decoration: line-through;
+
+}
+
+.related-p .related-item .pricing .sale{
+
+    color: black;
+    font-size: 22px;
+    font-weight: normal;
+
+
+}
+
+
+
+.related-p .related-item Button{
+
+    background-color: rgb(77, 74, 74);
+    border: none;
+    font-weight: bold;
+    margin-top: 8px;
+    
+}
+
+.related-p .related-item Button:hover{
+    color: black;
+    background-color: transparent;
+    border: 1px solid palevioletred;
+    
+}
+

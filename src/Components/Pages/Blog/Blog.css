@@ -1,0 +1,38 @@
+.page-top{
+
+    /* background-image: url('../../../images/bg2.jpg'); */
+    padding: 60px 0px;
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+
+}
+
+.blog-page{
+    
+    padding: 50px 0px;
+}
+
+.blog-page img{
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.blog-page h2, h4, p{
+
+    color: black;
+
+}
+
+.blog-page a{
+
+    color: black;
+    text-decoration: none;
+}
+
+
+.skl{
+
+    text-align: center;
+}
